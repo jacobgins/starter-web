@@ -20,3 +20,5 @@ can be on any web server
 
 
 ## How To Contribute 
+
+### Copyright
