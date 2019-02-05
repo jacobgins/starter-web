@@ -21,4 +21,7 @@ can be on any web server
 
 ## How To Contribute 
 
+Please fork this repository and then issue Pull request
+for review.
+
 ### Copyright
