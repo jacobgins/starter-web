@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This is a simple website project for
-showing how to use git
+showing how to use git. Adding a line for rebasing
 
 ## Inroduction
 
