@@ -1,7 +1,8 @@
 # Starter Web Repo
 
 This is a simple website project for
-showing how to use git. Adding a line for rebasing
+showing how to use git. Adding a line for rebasing, then
+more changes from myfeature branch
 
 ## Inroduction
 
