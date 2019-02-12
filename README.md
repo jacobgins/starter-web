@@ -26,3 +26,5 @@ Please fork this repository and then issue Pull request
 for review.
 
 ### Copyright
+
+2019 Git Traning. All rights reserved
