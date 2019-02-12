@@ -17,13 +17,13 @@ provide simple examples for Git training demos.
 ## Deployment
 
 This is a simple web project, deployment 
-can be on any web server
+can be on any web server. Doing imegency fix
 
 
 ## How To Contribute 
 
 Please fork this repository and then issue Pull request
-for review.
+for review. 
 
 ### Copyright
 
